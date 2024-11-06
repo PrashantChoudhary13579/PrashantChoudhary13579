@@ -42,10 +42,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
 </p>
+## 📊 GitHub Stats
 
-<h3 align="left">GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantchoudhary13579&show_icons=true&locale=en&layout=compact" alt="prashantchoudhary13579" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantchoudhary13579&show_icons=true&locale=en&layout=compact&theme=transparent" alt="prashantchoudhary13579" />
+</p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantchoudhary13579&show_icons=true&locale=en" alt="prashantchoudhary13579" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantchoudhary13579&show_icons=true&locale=en&theme=transparent" alt="prashantchoudhary13579" />
+</p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchoudhary13579&" alt="prashantchoudhary13579" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantchoudhary13579&theme=transparent" alt="prashantchoudhary13579" />
+</p>
