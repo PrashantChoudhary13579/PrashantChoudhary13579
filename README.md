@@ -7,11 +7,11 @@
 
 - 🌱 **Currently Learning**: Deepening my skills in **JavaScript, PHP, and React**, alongside projects involving **Next.js** and **Tailwind CSS** for hackathons.
 
-- 👨‍💻 **Projects**: I work on a mix of security, data management, and web development projects, including a **Student Management System** in PostgreSQL and an Intelligent PDF Querying System (IPQS) using AI, Next.js, and cloud tech. Check them out here: [My GitHub Projects](https://github.com/PrashantChoudhary13579?tab=projects)
+- 👨‍💻 **Projects**: I work on a mix of security, data management, and web development projects, including a **Student Management System** in PostgreSQL, **Criminal Records Management System for Police** in Apex Oracle and an Intelligent PDF Querying System (IPQS) using AI, Next.js, and cloud tech. Check them out here: [My GitHub Projects](https://github.com/PrashantChoudhary13579?tab=projects)
 
 - 🎯 **Career Aspiration**: My ultimate goal is to serve society as a Software Engineer.
 
-- ⚡ **Fun Fact**: Besides coding, I'm passionate about **Mathematics** and laugh a lot—makes coding challenges a little easier! 😊
+- ⚡ **Fun Fact**: Besides coding, I'm passionate about **Mathematics** and always be happy — which makes coding challenges a little easier! 😊
 
 - 📬 **Reach Me**: Feel free to reach out at **prashantchoudhary13579@gmail.com**
 
