@@ -3,17 +3,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantchoudhary13579&label=Profile%20views&color=0e75b6&style=flat" alt="prashantchoudhary13579" /> </p>
 
-- 🔭 **Currently Working On**: My project titled **"Improving Open Source Software Security Using Fuzzing"** for the National Critical Information Infrastructure Protection Center (NCIIPC). I'm focused on identifying vulnerabilities in Sumatra PDF Reader and enhancing security for critical software applications.
+- 🔭 **Currently Working On**:  
+  - **Google Summer of Code (GSoC)** project for the organization **SageMath**, contributing to enhancing mathematical tools and libraries used in research and education.  
+  - My project titled **"Improving Open Source Software Security Using Fuzzing"** for the **National Critical Information Infrastructure Protection Center (NCIIPC)**, where I'm identifying vulnerabilities in **Sumatra PDF Reader** and improving the security of critical software.  
 
-- 🌱 **Currently Learning**: Deepening my skills in **JavaScript, PHP, and React**, alongside projects involving **Next.js** and **Tailwind CSS** for hackathons.
+- 🌟 **Achievements**:  
+  - Runner-Up in **Smart India Hackathon 2024** for the fuzzing project.  
+  - Successfully completed **Hacktoberfest 2024**.  
+  - Participated in **TechNight**, an 18-hour hackathon at Punjab Engineering College, Chandigarh, and received a certificate of participation.  
 
-- 👨‍💻 **Projects**: I work on a mix of security, data management, and web development projects, including a **Student Management System** in PostgreSQL, **Criminal Records Management System for Police** in Apex Oracle and an Intelligent PDF Querying System (IPQS) using AI, Next.js, and cloud tech. Check them out here: [My GitHub Projects](https://github.com/PrashantChoudhary13579?tab=projects)
+- 🌱 **Currently Learning**:  
+  - **JavaScript, SageMath (Sage), and CMD** to enhance my contributions to SageMath and improve my cybersecurity expertise.  
+  - Exploring the exciting field of **cybersecurity** to contribute to safer digital systems.  
+  - Building modern web development skills with **Next.js** and **Tailwind CSS** through hackathons and projects.  
 
-- 🎯 **Career Aspiration**: My ultimate goal is to serve society as a Software Engineer.
+- 👨‍💻 **Projects**:  
+  - **Criminal Records System for Police Management**: Built with Oracle APEX, this system streamlines the recording and retrieval of data about police stations, officers, criminals, and FIRs.  
+  - **Student Management System**: A PostgreSQL database project to manage student data efficiently.  
+  - **Intelligent PDF Querying System (IPQS)**: Developed using AI, Next.js, and cloud technologies to allow natural language queries on PDF documents.  
 
-- ⚡ **Fun Fact**: Besides coding, I'm passionate about **Mathematics** and always be happy — which makes coding challenges a little easier! 😊
+- 🎯 **Career Aspiration**: My ultimate goal is to serve society as a **Software Engineer**.  
 
-- 📬 **Reach Me**: Feel free to reach out at **prashantchoudhary13579@gmail.com**
+- ⚡ **Fun Fact**: Besides coding, I’m passionate about **Mathematics** and believe that staying happy makes solving coding challenges a lot easier! 😊  
+
+- 📬 **Reach Me**: Feel free to reach out at **prashantchoudhary13579@gmail.com**  
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -42,6 +57,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
 </p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
