@@ -20,7 +20,6 @@
 - 👨‍💻 **Projects**:  
   - **Criminal Records System for Police Management**: Built with Oracle APEX, this system streamlines the recording and retrieval of data about police stations, officers, criminals, and FIRs.  
   - **Student Management System**: A PostgreSQL database project to manage student data efficiently.  
-  - **Intelligent PDF Querying System (IPQS)**: Developed using AI, Next.js, and cloud technologies to allow natural language queries on PDF documents.  
 
 - 🎯 **Career Aspiration**: My ultimate goal is to serve society as a **Software Engineer**.  
 
