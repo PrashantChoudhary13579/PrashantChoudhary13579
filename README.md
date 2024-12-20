@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantchoudhary13579&label=Profile%20views&color=0e75b6&style=flat" alt="prashantchoudhary13579" /> </p>
 
 - 🔭 **Currently Working On**:  
-  - **Google Summer of Code (GSoC)** project for the organization **SageMath**, contributing to enhancing mathematical tools and libraries used in research and education.  
-  - My project titled **"Improving Open Source Software Security Using Fuzzing"** for the **National Critical Information Infrastructure Protection Center (NCIIPC)**, where I'm identifying vulnerabilities in **Sumatra PDF Reader** and improving the security of critical software.  
+  - Learning About **SageMath**, and want to contribute for the organization by enhancing mathematical tools and libraries used in research and education.  
+  - My project titled **"Improving Open Source Software Security Using Fuzzing"** for the **National Critical Information Infrastructure Protection Center (NCIIPC)**, where I'm identifying vulnerabilities in **Sumatra PDF Reader** and improving the security of critical software.
+  - Learning About **Telecommunication Networks** and exploring in it.
 
 - 🌟 **Achievements**:  
   - Runner-Up in **Smart India Hackathon 2024** for the fuzzing project.  
