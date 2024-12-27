@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantchoudhary13579&label=Profile%20views&color=0e75b6&style=flat" alt="prashantchoudhary13579" /> </p>
 
-- 🔭 **Currently Working On**:  
-  - Learning About **SageMath**, and want to contribute for the organization by enhancing mathematical tools and libraries used in research and education.  
-  - My project titled **"Improving Open Source Software Security Using Fuzzing"** for the **National Critical Information Infrastructure Protection Center (NCIIPC)**, where I'm identifying vulnerabilities in **Sumatra PDF Reader** and improving the security of critical software.
-  - Learning About **Telecommunication Networks** and exploring in it.
 
 - 🌟 **Achievements**:  
   - Runner-Up in **Smart India Hackathon 2024** for the fuzzing project.  
@@ -15,12 +11,11 @@
 
 - 🌱 **Currently Learning**:  
   - **JavaScript, SageMath (Sage), and CMD** to enhance my contributions to SageMath and improve my cybersecurity expertise.  
-  - Exploring the exciting field of **cybersecurity** to contribute to safer digital systems.  
-  - Building modern web development skills with **Next.js** and **Tailwind CSS** through hackathons and projects.  
+   
+  - Building modern web development skills with **Javascript** and  **Node.js** through projects.  
 
 - 👨‍💻 **Projects**:  
   - **Criminal Records System for Police Management**: Built with Oracle APEX, this system streamlines the recording and retrieval of data about police stations, officers, criminals, and FIRs.  
-  - **Student Management System**: A PostgreSQL database project to manage student data efficiently.  
 
 - 🎯 **Career Aspiration**: My ultimate goal is to serve society as a **Software Engineer**.  
 
