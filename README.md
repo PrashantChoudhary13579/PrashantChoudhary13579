@@ -10,7 +10,7 @@
   - Participated in **TechNight**, an 18-hour hackathon at Punjab Engineering College, Chandigarh, and received a certificate of participation.  
 
 - 🌱 **Currently Learning**:  
-  - **JavaScript, SageMath (Sage), and CMD** to enhance my contributions to SageMath and improve my cybersecurity expertise.  
+  - **JavaScript,Python, SageMath (Sage), and CMD** to enhance my contributions to SageMath and improve my cybersecurity expertise.  
    
   - Building modern web development skills with **Javascript** and  **Node.js** through projects.  
 
