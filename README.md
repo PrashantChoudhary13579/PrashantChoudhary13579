@@ -10,12 +10,13 @@
   - Participated in **TechNight**, an 18-hour hackathon at Punjab Engineering College, Chandigarh, and received a certificate of participation.  
 
 - 🌱 **Currently Learning**:  
-  - **JavaScript,Python, SageMath (Sage), and CMD** to enhance my contributions to SageMath and improve my cybersecurity expertise.  
+  - **JavaScript, Python, SageMath (Sage), and CMD** to enhance my contributions to SageMath and improve my cybersecurity expertise.  
    
   - Building modern web development skills with **Javascript** and  **Node.js** through projects.  
 
 - 👨‍💻 **Projects**:  
-  - **Criminal Records System for Police Management**: Built with Oracle APEX, this system streamlines the recording and retrieval of data about police stations, officers, criminals, and FIRs.  
+  - **Criminal Records System for Police Management**: Built with Oracle APEX, this system streamlines the recording and retrieval of data about police stations, officers, criminals, and FIRs.
+  - Various mini project like Age Calculator, music system, etc..
 
 - 🎯 **Career Aspiration**: My ultimate goal is to serve society as a **Software Engineer**.  
 
