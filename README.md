@@ -10,7 +10,7 @@
   - Participated in **TechNight**, an 18-hour hackathon at Punjab Engineering College, Chandigarh, and received a certificate of participation.  
 
 - 🌱 **Currently Learning**:  
-  - **JavaScript, Python ** to enhance expertise in various field of MERN stack and AI.  
+  - **JavaScript, Python** to enhance expertise in various field of MERN stack and AI.  
   - Building web development skills with **Javascript** and  **Node.js** through projects.  
 
 - 👨‍💻 **Projects**:  
