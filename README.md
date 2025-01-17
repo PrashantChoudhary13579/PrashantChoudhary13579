@@ -11,7 +11,7 @@
 
 - 🌱 **Currently Learning**:  
   - **JavaScript, Python** to enhance expertise in various field of MERN stack and AI.  
-  - Building web development skills with **Javascript** and  **Node.js** through projects..
+  - Building web development skills with **Javascript** and  **Node.js** through projects.
 
 - 👨‍💻 **Projects**:  
   - **Criminal Records System for Police Management**: Built with Oracle APEX, this system streamlines the recording and retrieval of data about police stations, officers, criminals, and FIRs.
